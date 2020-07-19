@@ -1,4 +1,4 @@
-![Irfan Baig (3)](https://user-images.githubusercontent.com/4952659/87869039-4907e200-c9ad-11ea-9292-0d76d1771eae.jpg)
+![Irfan Baig (3)](https://user-images.githubusercontent.com/4952659/87869249-3393b780-c9af-11ea-8cf6-64becbd995e8.png)
 
 
 <!--
