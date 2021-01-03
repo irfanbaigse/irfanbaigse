@@ -4,7 +4,7 @@
 ![Irfan Baig name tag](https://user-images.githubusercontent.com/4952659/87870017-52954800-c9b5-11ea-8959-ea3c84ace30e.png)
 
 I am from Bangalore, India. Working in UAE. Having over 7+ years of experience with PHP(Larvel,Yii2,Symphoney) and 4+ Years with Javascript(Nodejs). Side projects with flutter.
-- 🔭 I’m currently working on flutter, php and nodejs
+- 🔭 I’m currently working on flutter, php, java and nodejs
 - 🌱 I’m currently learning data structure and algorithms.
 - 🤝 I’m looking to collaborate on flutter and php projects.
 - 📫 How to reach me: SOCIAL MEDIA
