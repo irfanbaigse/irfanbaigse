@@ -3,13 +3,11 @@
 
 ![Irfan Baig name tag](https://user-images.githubusercontent.com/4952659/87870017-52954800-c9b5-11ea-8959-ea3c84ace30e.png)
 
-I am from Bangalore, India. Working in UAE. Having over 7+ years of experience with PHP(Larvel,Yii2,Symphoney) and 4+ Years with Javascript(Nodejs). Side projects with flutter.
-- 🔭 I’m currently working on flutter, php, java and nodejs
-- 🌱 I’m currently learning data structure and algorithms.
-- 🤝 I’m looking to collaborate on flutter and php projects.
+I am from Bangalore, India. Working in UAE. Having over 13+ years of experience in software development.
 - 📫 How to reach me: SOCIAL MEDIA
+- 🔗 [ibaig.com](ibaig.com)
 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@irfanbaigse) [<img src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white">](https://dev.to/irfanbaigse) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/irfanbaigse/) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/irfanbaigse)  
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@iam-irfanbaig) [<img src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white">](https://dev.to/irfanbaigse) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/irfanbaigse/) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/irfanbaigse)  
 
 
 <!--
