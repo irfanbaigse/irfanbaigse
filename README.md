@@ -3,7 +3,7 @@
 
 ![Irfan Baig name tag](https://user-images.githubusercontent.com/4952659/87870017-52954800-c9b5-11ea-8959-ea3c84ace30e.png)
 
-I am from Bangalore, India. Working in UAE. Having over 13+ years of experience in software development.
+I am from Bangalore, India. Working in UAE. Having over 11+ years of experience in software development.
 - 📫 How to reach me: SOCIAL MEDIA
 - 🔗 [ibaig.com](ibaig.com)
 
